@@ -6,7 +6,7 @@ Normalment, els documents d'entrada són arxius XML, però també poden ser altr
 Hi ha processadors de XSLT en llenguatges com C, C++, Java, Python, Perl, Javascript.
 Els navegador webs més habituals (Safari, Chrome, Firefox, microsoft Edge, Opera,...) porten un processador de XSLT incorporat.
 
-![imagen_2024-04-03_185957219](https://hackmd.io/_uploads/rJGfiWoJ0.png)
+![image](https://github.com/aacuevasca/XML-Python/assets/165804281/af89daee-f112-489c-bf2e-28175dc9462c)
 
 Hi ha processadors de XSLT en llenguatges com C, C++, Java, Python, Perl, Javascript.
 Els navegador webs més habituals (Safari, Chrome, Firefox, microsoft Edge, Opera,...) porten un processador de XSLT incorporat.
